@@ -1,0 +1,6 @@
+demoenv/
+__pycache__/
+*.pyc
+.env
+.git/
+db.sqlite3

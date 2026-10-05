@@ -1,0 +1,12 @@
+.env
+demoenv/
+__pycache__/
+*.pyc
+db.sqlite3
+staticfiles/
+.git/
+.vscode/
+.idea/
+sqlite_data.json
+sqlite_data_clean.json
+data.json
